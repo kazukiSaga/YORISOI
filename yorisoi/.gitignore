@@ -40,3 +40,6 @@ yarn-debug.log*
 
 /*.xlsx
 
+# Ignore the specific database config file.
+/config/database.yml
+
